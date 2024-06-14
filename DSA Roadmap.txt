@@ -1,0 +1,110 @@
+Roadmap For Practising Data Structures
+And Algorithms
+
+Practice Link: https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms
+
+1.Arrays & Strings
+	a. Basic Array And Strings Questions
+	b. Kadane's Algorithm
+	c. Dutch National Flag Algorithm
+	d. Sliding Window
+	e. Two pointers
+
+2.Multidimensional arrays
+	a. Traversal Based Problems
+	b. Rotation Based Problems
+
+3.Recursion And Backtracking
+	a. Basic Recursion Questions
+	b. Divide And Conquer
+
+4.Sorting Algorithms
+	a. Insertion Sort
+	b. Selection Sort
+
+5.Binary Search Applications
+	a. Binary Search On Arrays
+	b. Binary Search On Matrix
+
+6.Linked Lists
+	a. Reversal Problems
+	b. Sorting Problems
+	c. Slow And Fast Pointers
+	d. Modify In Linked list
+
+7.Stacks & Queues
+	a. Implementation Based Problems
+	b. Application Based Problems
+
+8.Binary Trees
+	a. Tree Traversals
+	b. Construction Of Trees
+	c. Tree Views
+	d. Standard Problems
+
+9.BST
+	a. Construction Of BST
+	b. Conversion Based Problems
+	c. Modification in BST
+	d. Standard Problems
+
+10.Priority Queues And Heaps
+	a. Implementation Based problems
+	b. Conversion based problems
+	c. K Based Problems
+
+11.Graphs
+	a. Graph Traversals - BFS And DFS
+	b. MST
+	c. Shortest Path Algorithms
+	d. Topological Sort
+	e. Graphs in Matrix
+
+12.Dynamic Programming
+	a. DP with Arrays
+	b. DP With Strings
+	c. DP With Maths
+	d. DP With Trees
+	e. Breaking And Partition Based Problems
+	f. Counting Based Problems
+
+13.Hard Recursion And Backtracking Questions
+
+14.Other Topics
+	a. Hashmaps
+	b. Tries
+	c. Bit Manipulation
+	d. Greedy
+	e. Circular Queues
+	f. Deques - Hot Topic
+	g. Doubly And Circular LL
+	h. String Algorithms like KMP and Z Algorithm
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Complete List of 375 Questions that you should do for Placements : bit.ly/DSASheet
+
+🔥Service based Companies:
+Language basics (Java/C++/Python)
+Arrays/2D Arrays
+Strings
+Searching & Sorting
+Linked List
+Stacks & Queues
+Trees/BST
+Basic Graphs
+
+🔥Product based Companies:
+Language basics (Java/C++/Python)
+Arrays/2D Arrays
+Strings
+Searching & Sorting
+Backtracking
+Linked List
+Stacks & Queues
+Trees/BST
+Graphs
+Dynamic Programming 
+Tries
+Segment Trees (basic)
+Bit Manipulation
